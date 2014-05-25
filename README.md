@@ -1,0 +1,4 @@
+minScript
+=========
+
+minScript
